@@ -5,7 +5,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/omkarbarge2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,11 +16,6 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-
-<!-- ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=orange)]()
-[![hackerrank](https://img.shields.io/badge/hackerrank-1DA1F2?style=for-the-badge&logo=hackerrank&logoColor=white)]() -->
 
 
 ## 🚀 About Me

@@ -32,9 +32,8 @@
 </div>
 
 ---
-<div align="center" style='font-weight: bold;'>
- :woman_technologist: About Me :
-</div>
+
+### :woman_technologist: About Me :
 I’m a Python developer ,gaming enthusiast and a binge watcher and above all a good learner :)
 
 Over past several years, I’ve spend my time into polishing software skills which includes HTML, CSS, JavaScript, MySQL, Bootstrap Skills but over and above all I found interest in python and decided to stick to it.

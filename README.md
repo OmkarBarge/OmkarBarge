@@ -40,6 +40,24 @@ Over past several years, I’ve spend my time into polishing software skills whi
 
 Also I am bit inclined towards Data Analytics as well ,looking forward to learn and keep learning throughout the opportunities aligned for me in future. Looking for opportunities as a Software developer/trainee or Data Analyst Intern
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
 ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarBarge&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBarge&show_icons=true&theme=radical)](https://github.com/OmkarBarge/github-readme-stats)
 

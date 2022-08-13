@@ -4,11 +4,11 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
-  ## 🔗 Links
+</div>
+## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarbarge2/)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/lll_eighty_eighty_lll/)
 [![hackerrank](https://img.shields.io/badge/hackerrank-1DA1F2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/omkarbarge2)
-</div>
 
 
 ## 🚀 About Me

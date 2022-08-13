@@ -6,21 +6,21 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/omkarbarge2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.hackerrank.com/omkarbarge2">
+    <img src="https://img.shields.io/badge/Hackerrank-red?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/lll_eighty_eighty_lll/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
 <!-- ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarbarge2/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=orange)](https://www.instagram.com/lll_eighty_eighty_lll/)
-[![hackerrank](https://img.shields.io/badge/hackerrank-1DA1F2?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/omkarbarge2) -->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=orange)]()
+[![hackerrank](https://img.shields.io/badge/hackerrank-1DA1F2?style=for-the-badge&logo=hackerrank&logoColor=white)]() -->
 
 
 ## 🚀 About Me

@@ -2,6 +2,10 @@
 # Hello i'm Omkar Barge!
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+</div>
+
 ## 🚀 About Me
 I’m a Python developer ,gaming enthusiast and a binge watcher and above all a good learner :)
 

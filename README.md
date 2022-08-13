@@ -1,5 +1,5 @@
 
-# Hello i'm Omkar Barge!
+<!-- # Hello i'm Omkar Barge! -->
 
 
 <div id="header" align="center">
@@ -27,6 +27,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## 🚀 About Me
 I’m a Python developer ,gaming enthusiast and a binge watcher and above all a good learner :)

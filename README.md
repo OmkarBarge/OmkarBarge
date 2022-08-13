@@ -65,7 +65,7 @@ Also I am bit inclined towards Data Analytics as well ,looking forward to learn 
 
 
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarBarge&show_icons=true&theme=radical) <br>
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarBarge&show_icons=true&theme=android-dark) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBarge&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 

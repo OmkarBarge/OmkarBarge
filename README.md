@@ -46,9 +46,7 @@ Also I am bit inclined towards Data Analytics as well ,looking forward to learn 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40"          height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40"          height="40"/>&nbsp;
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40"          height="40"/>&nbsp;
  
   <img src="" title="HTML" alt="HTML" width="40"          height="40"/>&nbsp;

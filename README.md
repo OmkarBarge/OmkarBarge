@@ -32,8 +32,9 @@
 </div>
 
 ---
-
+<div align="center">
 ### :woman_technologist: About Me :
+</div>
 I’m a Python developer ,gaming enthusiast and a binge watcher and above all a good learner :)
 
 Over past several years, I’ve spend my time into polishing software skills which includes HTML, CSS, JavaScript, MySQL, Bootstrap Skills but over and above all I found interest in python and decided to stick to it.

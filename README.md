@@ -31,7 +31,9 @@
   <img src="https://media.giphy.com/media/JqKOU2VAUx9bt9K4PK/giphy.gif" width="600" height="300"/>
 </div>
 
-## 🚀 About Me
+---
+
+### :woman_technologist: About Me :
 I’m a Python developer ,gaming enthusiast and a binge watcher and above all a good learner :)
 
 Over past several years, I’ve spend my time into polishing software skills which includes HTML, CSS, JavaScript, MySQL, Bootstrap Skills but over and above all I found interest in python and decided to stick to it.

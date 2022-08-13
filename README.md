@@ -32,7 +32,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="center" font-weight: bold;>
  :woman_technologist: About Me :
 </div>
 I’m a Python developer ,gaming enthusiast and a binge watcher and above all a good learner :)

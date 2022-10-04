@@ -67,8 +67,9 @@ Also I am bit inclined towards Data Analytics as well ,looking forward to learn 
 
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OmkarBarge&theme=vision-friendly-dark&hide_border=true)
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarBarge&show_icons=true&theme=vision-friendly-dark&hide_border=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBarge&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
+<!-- ![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarBarge&show_icons=true&theme=vision-friendly-dark&hide_border=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBarge&layout=compact&theme=vision-friendly-dark&hide_border=true) -->
 
 
 

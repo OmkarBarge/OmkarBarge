@@ -22,9 +22,9 @@
   <a href="https://www.hackerrank.com/omkarbarge2">
     <img src="https://img.shields.io/badge/Hackerrank-red?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"/>
   </a>
-  <a href="https://www.instagram.com/l_omkar_barge_l/">
+<!--   <a href="https://www.instagram.com/l_omkar_barge_l/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <div id="badges" align="center">
